@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="487265" started-at="2018-04-19T14:27:53Z" finished-at="2018-04-19T14:36:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="487265" started-at="2018-04-19T14:27:53Z" finished-at="2018-04-19T14:36:00Z">
+      <class name="org.practise.sprint5_2.MavenTest">
+        <test-method status="PASS" signature="testOne()[pri:0, instance:org.practise.sprint5_2.MavenTest@cadd41]" name="testOne" duration-ms="29900" started-at="2018-04-19T19:57:53Z" finished-at="2018-04-19T19:58:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:org.practise.sprint5_2.MavenTest@cadd41]" name="testTwo" duration-ms="440561" started-at="2018-04-19T19:58:32Z" finished-at="2018-04-19T20:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- org.practise.sprint5_2.MavenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
